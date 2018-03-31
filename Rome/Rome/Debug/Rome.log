@@ -1,0 +1,4 @@
+﻿  init.cpp
+c:\users\1\desktop\synopsys\rome\rome\init.cpp(27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Rome.vcxproj -> C:\Users\1\Desktop\Synopsys\Rome\Debug\Rome.exe
+  Rome.vcxproj -> C:\Users\1\Desktop\Synopsys\Rome\Debug\Rome.pdb (Partial PDB)
